@@ -1,14 +1,25 @@
-# Day-Trading
-I've been trading crypto for a little while now: probably a few years with coinbase (I had already had bitcoin in from mining using nice hash on a 1050ti and 1060). I heard about day trading and started to do some research and came across think or swim. I used think or swim by TD Ameritrade for a few days but was too overwhelmed with what was going on so I went back to coinbase. Someone at school told me a few months ago that there is a coinbase pro with much less fees which is great. I used to trade on coinbase regular but it takes a 2.833% fee on every trade. On coinbase pro statistics are much easier to see and manage and buying/ selling is quicker and easier to manipulate. Also Coinbase Pro only has a .50% maker/taker fee for people with a volume less than 10k. A volume from 10k-50k yields a .35% maker/taker fee. I put in 100$ a few days ago and I've been trading. I have a net volume now of about 4k and I've lost $18 through being impatient and anxious (selling profitable coins too fast). I'm okay with trading very frequently right now and racking up the fees only because it will soon set my volume over 10k where I get the .35% fee which will be nice.
+# Day Trading - My Experience
 
-Started using TD Ameritrade Think or Swim for its lack of fees and such. Very complicated but I'm slowly figuring out how to use it.
+I've been involved in **crypto trading** for a few years now, initially using **Coinbase**. My first introduction to crypto came from **mining Bitcoin** with a **GTX 1050ti** and **GTX 1060** through **NiceHash**. Eventually, I became interested in **day trading**, which led me to research more active trading platforms. That’s when I discovered **Think or Swim (ToS)** by **TD Ameritrade**.
 
-Getting better at trading and understanding what's going on
+## My Journey from Coinbase to Coinbase Pro
+After testing **Think or Swim** for a few days, I found the interface a bit overwhelming for my current skill level, so I switched back to Coinbase. I continued to trade on the standard Coinbase platform, but it wasn't ideal because they charge a **2.833% fee** on every trade, which quickly eats into profits. 
 
-I'm ready for them to introduce crypto currencies for the instant trading time
+A few months ago, a classmate told me about **Coinbase Pro**—a version of Coinbase with significantly reduced fees. I made the switch, and it's been a game changer:
+- **Lower Fees**: Coinbase Pro charges only a **0.50% maker/taker fee** for accounts with less than $10k in trading volume. Once you surpass $10k in volume, the fee drops to **0.35%**.
+- **Better Analytics & Trading Tools**: The platform offers clearer stats, more accessible market data, and a more user-friendly buy/sell process.
 
+I started trading on Coinbase Pro with just **$100**, and my net trading volume is now about **$4k**. So far, I've lost **$18**—mainly due to impatience and anxiety-driven decisions, like selling coins too quickly after a slight gain. Despite this, I'm okay with trading frequently to rack up volume because I'm approaching the $10k mark, where the fees drop even further.
 
+## Revisiting Think or Swim (ToS)
+After getting more comfortable with day trading, I gave **TD Ameritrade's Think or Swim** another shot. The platform is robust and offers a lot of advanced tools without additional fees. While the initial learning curve was steep, I'm gradually understanding how to leverage its features for more effective trades. 
 
-01/11/2021
+- **Advanced Features**: Think or Swim's interface allows for better technical analysis and provides access to a wider variety of markets beyond just crypto.
+- **Transition to Stock Trading**: As I get more familiar with ToS, I've been able to diversify into stocks, which offer different opportunities compared to crypto.
 
-I've been using TD Ameritrade for a few months now and am pretty confident with what is going on. I've made over 50% gains since I started on a few different stocks. Im in NETE right now, an electric car company. Its worth 14.24 at the moment. I plan on holding it for a while longer.
+I’m excited for the future, especially with the hope that TD Ameritrade will introduce instant trading for cryptocurrencies.
+
+## Current Trading Strategy & Performance (01/11/2021)
+I've been trading stocks through **TD Ameritrade** for a few months now, and my strategy has evolved significantly. I've made **over 50% gains** across various stocks since I began. My current position is in **NETE**, an electric car company. At the moment, its stock is valued at **$14.24**, and I'm holding with the intention to ride out its growth potential. 
+
+I've learned a lot throughout this journey—from managing fees to honing my patience and improving my technical analysis skills. As I continue trading, I'm eager to keep refining my strategies and see where this journey takes me.
